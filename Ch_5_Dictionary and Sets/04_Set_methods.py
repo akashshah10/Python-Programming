@@ -9,3 +9,7 @@ print(len(s))
 
 s.remove(1)
 print(s, type(s))
+
+print(s.pop())
+
+print(s)
