@@ -1,2 +1,0 @@
-Append user inout
-This is a text appended by the user
